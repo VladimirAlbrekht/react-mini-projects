@@ -1,0 +1,21 @@
+.counter {
+    padding: 50px;
+    border-radius: 5px;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.counter__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.counter__btn {
+   width: 100%;
+   border:none;
+}
